@@ -29,7 +29,7 @@
 
 ## Installing
 ``` bash
-git clone https://github.com/KAR13MA09
+git clone https://github.com/KAR13MA09/NTTT-Webbrowser
 
 cd NTTT-webbrowser
 
