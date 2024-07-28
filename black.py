@@ -1,8 +1,6 @@
 #!/usr/bin/python3
 # Made By NguyenTrinhTuanTu-KAR13MA09 (NTTT-Software)
 # NTTT-Webbrowser v1.0
-
-
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
 from PyQt5.QtGui import *
