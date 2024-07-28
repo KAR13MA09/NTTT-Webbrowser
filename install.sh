@@ -12,6 +12,6 @@ pip install -r requirements.txt
 
 
 echo "Finish...!"
-echo "Use: python NTTT.py"
+echo "Use: python3 black.py"
 
 exit
