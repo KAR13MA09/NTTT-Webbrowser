@@ -35,7 +35,7 @@ cd NTTT-webbrowser
 
 bash install.sh
 
-python NTTT.py
+python black.py
 ```
 
 ### Argument
